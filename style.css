@@ -10,11 +10,12 @@
 .title {
   background-color: rgb(9, 184, 5);
   color: black;
+  margin: 0px;
+  padding: 0px;
 }
 
 body {
-  margin: 0px;
-  padding: 0px;
+  
   background-color: black;
   color: rgb(9, 184, 5);
 }
