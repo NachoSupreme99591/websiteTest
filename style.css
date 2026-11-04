@@ -1,6 +1,6 @@
 @font-face {
   font-family: "ibmpc";
-  src: url("./Fonts/WebPlus_IBM_VGA_8x16.woff") format("woff");
+  src: url("./fonts/Web437_IBM_VGA_8x16.woff") format("woff");
 }
 
 * /*the asterisk is the universal selector, not to but confused with the asterisk used for comments */ {
