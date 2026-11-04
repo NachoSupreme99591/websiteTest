@@ -12,7 +12,18 @@
   color: black;
 }
 
-.body {
+body {
   background-color: black;
   color: rgb(9, 184, 5);
+}
+
+a:link { /*the normal, uninteracted ling */
+  color: rgb(9, 184, 5);
+}
+
+a:hover {
+  color: rgb(9, 230, 5);
+}
+a:active {
+  color: red;
 }
