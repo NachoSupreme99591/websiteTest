@@ -6,3 +6,13 @@
 * /*the asterisk is the universal selector, not to but confused with the asterisk used for comments */ {
   font-family: "ibmpc", monospace;
 }
+
+.title {
+  background-color: rgb(9, 184, 5);
+  color: black;
+}
+
+.body {
+  background-color: black;
+  color: rgb(9, 184, 5);
+}
