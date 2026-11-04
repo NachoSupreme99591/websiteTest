@@ -17,7 +17,7 @@ body {
   color: rgb(9, 184, 5);
 }
 
-a:link { /*the normal, uninteracted ling */
+a:link, a:visited { /*the normal, uninteracted ling */
   color: rgb(9, 184, 5);
 }
 
