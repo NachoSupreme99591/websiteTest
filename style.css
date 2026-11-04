@@ -6,6 +6,7 @@
 * /*the asterisk is the universal selector, not to but confused with the asterisk used for comments */ {
   font-family: "ibmpc", monospace;
   padding-left: 30px;
+  padding-right: 30px
 }
 
 .title {
